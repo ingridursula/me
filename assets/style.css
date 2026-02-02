@@ -168,6 +168,7 @@ nav {
 }
 
 .photo-frame img {
+  width: 228px;
   opacity: 95%;
 }
 
